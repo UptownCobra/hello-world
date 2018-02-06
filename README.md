@@ -1,2 +1,5 @@
 # hello-world
-Just anther repository
+Hey everyone,
+
+I am just trying to figure out this GitHub thing.
+Looking forward to learning everyything I can about Git.
